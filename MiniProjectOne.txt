@@ -1,0 +1,16 @@
+Comparison of the peak resultant head acceleration experienced:
+
+Toyota Corolla: 48.79g
+
+Honda CR-V: 49.03g
+
+Ford F-150: 47.27g
+
+
+Comparison of the calculated head injury criterion (HIC) values:
+
+Toyota Corolla:  206
+
+Honda CR-V:  178
+
+Ford F-150:  189
